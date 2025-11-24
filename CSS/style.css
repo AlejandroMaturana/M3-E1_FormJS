@@ -1,0 +1,21 @@
+.hero-section {
+  height: 90vh;
+  background: linear-gradient(to bottom right, #34363a, #061826);
+}
+
+.speaker-card img {
+  object-fit: cover;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(to bottom right, #34363a, #061826);
+  color: antiquewhite
+}
+
+#btn-validar {
+  visibility: hidden;
+  pointer-events: none;
+}
