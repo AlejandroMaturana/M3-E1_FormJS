@@ -43,6 +43,6 @@ document.getElementById("btn-validar").addEventListener("click", function () {
     console.log("Error: La contraseña debe tener al menos 8 caracteres");
   }
   else {
-    console.log(`✅ Registro exitoso. ¡Bienvenido, ${nombreUsuario}!`);
+    console.log("✅ Registro exitoso. ¡Bienvenido, ${nombreUsuario}!");
   }
 });
